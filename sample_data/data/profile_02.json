@@ -1,0 +1,70 @@
+# Enriched User Profile
+profile = {
+    "name": "John Doe",
+    "address": "1234 Main St, Anytown, USA",
+    "birth": "1990-01-01",
+    "occupation": "Software Engineer",
+    "contact": {
+        "email": "johndoe@example.com",
+        "phone": "+1-555-123-4567",
+        "linkedin": "https://www.linkedin.com/in/johndoe"
+    },
+    "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "University of Anytown",
+        "graduation_year": 2012
+    },
+    "experience": [
+        {
+            "position": "Senior Software Engineer",
+            "company": "Tech Solutions Inc.",
+            "location": "Anytown, USA",
+            "duration": "2018-present",
+            "responsibilities": [
+                "Led the development of a scalable web application used by millions of users.",
+                "Implemented CI/CD pipelines to streamline deployment processes.",
+                "Mentored junior developers and conducted code reviews."
+            ]
+        },
+        {
+            "position": "Software Engineer",
+            "company": "Innovative Web Services",
+            "location": "Anytown, USA",
+            "duration": "2014-2018",
+            "responsibilities": [
+                "Developed and maintained various web applications using JavaScript, HTML, and CSS.",
+                "Collaborated with cross-functional teams to define, design, and ship new features.",
+                "Optimized application performance and resolved technical issues."
+            ]
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "Django",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Agile methodologies"
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect",
+            "issuer": "Amazon Web Services",
+            "date": "2020-05"
+        }
+    ],
+    "languages": [
+        "English (native)",
+        "Spanish (fluent)"
+    ],
+    "hobbies": [
+        "Hiking",
+        "Reading",
+        "Traveling",
+        "Photography"
+    ]
+}
